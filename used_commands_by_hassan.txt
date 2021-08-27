@@ -1,0 +1,19 @@
+=> git clone https://github.com/hassan510-cmd/ITI_Git_task
+
+=> git add *
+
+=> git commit -m "hassan commit"
+
+=> git push -u origin master
+----------------------------------------------------------
+
+=> git pull
+
+----------------------------------------------------------
+=> git clone https://github.com/antonsamirabdu/lect1_js
+
+=> git add *
+
+=> git commit -m "hassan commit"
+
+=> git push -u origin master
